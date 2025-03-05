@@ -28,8 +28,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=asatryan-v&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/asatryan-v/)
-[![Email: 007asatryan@gmail.com](https://img.shields.io/badge/Email-007asatryan@gmail.com-EA4335?logo=gmail)](mailto:007asatryan@gmail.com)
+
 
 
