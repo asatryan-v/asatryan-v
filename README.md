@@ -1,12 +1,13 @@
 # Hi 👋, I'm Vardan Asatryan 
 
-🚀 **Backend Developer** |   🌍 Based in Armenia |🛠️ Building Robust Systems
+🚀 **Full stack PHP Developer** | 🛠️ Building Robust Systems
 
 ### ⚡ About Me
 - Passionate about creating efficient, scalable backend solutions
 - Love solving complex problems through object-oriented design
 - Constantly exploring containerization and microservices architectures
 
+- 📫 How to reach me **vardan.asatryan.up@gmail.com**
 ### 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
