@@ -26,8 +26,6 @@
 
 ### 📈 GitHub Stats
 [![PHP Specialist](https://github-readme-stats.vercel.app/api/top-langs/?username=asatryan-v&hide=html,css&layout=compact&theme=dark&hide_border=true)](https://github.com/asatryan-v)
-[![GitHub Streak](https://streak-stats.demolab.com?user=asatryan-v&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 
 
