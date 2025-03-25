@@ -24,9 +24,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
 
-### 📈 GitHub Stats
-[![PHP Specialist](https://github-readme-stats.vercel.app/api/top-langs/?username=asatryan-v&hide=html,css&layout=compact&theme=dark&hide_border=true)](https://github.com/asatryan-v)
-
 
 
 
