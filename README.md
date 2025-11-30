@@ -7,6 +7,16 @@
 - Love solving complex problems through object-oriented design
 - Constantly exploring containerization and microservices architectures
 
+### 🤖 AI Tools & AI Agents I Use
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai\&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?logo=github\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-FFD700?logo=anthropic\&logoColor=black)
+![Codeium](https://img.shields.io/badge/Codeium-4B9CD3?logo=codeium\&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-3B82F6?logo=cursor\&logoColor=white)
+![KiloCode](https://img.shields.io/badge/KiloCode_AI-7C3AED?logo=apache-spark\&logoColor=white)
+![Junie](https://img.shields.io/badge/Junie_AI-10B981?logo=android\&logoColor=white)
+
 - 📫 How to reach me **vardan.asatryan.up@gmail.com**
 ### 🛠️ Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -23,7 +33,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
-
-
-
-
